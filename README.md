@@ -3,6 +3,10 @@
 ![Golang](https://img.shields.io/badge/language-Golang-blue.svg)
 ![Beego](https://img.shields.io/badge/framework-Beego-green.svg)
 
+## 微信Pad协议，GO语言源码，使用教学，学会为止，限时低价出售
+## 联系微信：totop_top
+## 支持多平台运行（windows，mac，linux）
+
 ## 项目结构
 
 ```
@@ -15,9 +19,6 @@ wechat-pad/
 │   ├── device/            # 设备相关数据和操作
 │   ├── mm/                # 微信相关原型定义
 │   └── ...
-│
-├── Fun/                    # 功能函数
-│   └── Hex2Int.go         # 十六进制与整型转换函数
 │
 ├── Mmtls/                  # MMTLS协议实现
 │   ├── GenNewHttpClient.go# 生成新的HTTP客户端
