@@ -4,7 +4,9 @@
 ![Beego](https://img.shields.io/badge/framework-Beego-green.svg)
 
 ## 微信Pad协议，GO语言源码，使用教学，学会为止，限时低价出售
-## 联系微信：totop_top
+#### 非常稳定，长期不掉线，功能接口丰富，可多开
+
+## 联系微信：yless_m
 ## 支持多平台运行（windows，mac，linux）
 ## 后期统一发送更新内容
 
