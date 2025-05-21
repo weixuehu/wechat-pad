@@ -4,7 +4,10 @@
 ![Beego](https://img.shields.io/badge/framework-Beego-green.svg)
 
 ## 微信Pad协议，GO语言源码，使用教学，学会为止，限时低价出售
+
 #### 非常稳定，长期不掉线，功能接口丰富，可多开
+#### 最新版微信协议859
+#### 防封，永久更新，送内网穿透教程，告别收费代理IP
 
 ## 联系QQ：1010331559
 ## 支持多平台运行（windows，mac，linux）
